@@ -1,0 +1,11 @@
+list of icons
+cut
+copy
+past
+color themes
+left align
+center align
+right aling
+new file
+save file
+clear text
